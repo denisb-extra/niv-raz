@@ -1,0 +1,305 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/AdobeFnt23.lst
+FileLength:6848
+FileModTime:705933883
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DolceVitaLight
+FamilyName:Dolce Vita Light
+StyleName:Super Light
+MenuName:Dolce Vita Light
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dolce Vita Light
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Dolce Vita Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30128
+FileModTime:405519180
+NameArray:0,Mac,4,Dolce Vita Light
+NameArray:0,Win,1,Dolce Vita Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Esphimere-Bold
+FamilyName:Esphimere
+StyleName:Bold
+MenuName:Esphimere
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Esphimere Bold
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Esphimere Bold.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59848
+FileModTime:466704062
+NameArray:0,Mac,4,Esphimere Bold
+NameArray:0,Win,1,Esphimere
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Esphimere-Light
+FamilyName:Esphimere
+StyleName:Light
+MenuName:Esphimere Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Esphimere Light
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Esphimere Light.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60112
+FileModTime:466704096
+NameArray:0,Mac,4,Esphimere Light
+NameArray:0,Win,1,Esphimere Light
+NameArray:0,Win,16,Esphimere
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Esphimere-Thin
+FamilyName:Esphimere
+StyleName:Thin
+MenuName:Esphimere Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Esphimere Thin
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Esphimere Thin.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60172
+FileModTime:466704072
+NameArray:0,Mac,4,Esphimere Thin
+NameArray:0,Win,1,Esphimere Thin
+NameArray:0,Win,16,Esphimere
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Esphimere
+FamilyName:Esphimere
+StyleName:Regular
+MenuName:Esphimere
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Esphimere
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Esphimere.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59948
+FileModTime:466704106
+NameArray:0,Mac,4,Esphimere
+NameArray:0,Win,1,Esphimere
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Expansiva
+FamilyName:Expansiva
+StyleName:Regular
+MenuName:Expansiva
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Expansiva
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/Expansiva.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:14416
+FileModTime:394383470
+NameArray:0,Mac,4,Expansiva
+NameArray:0,Win,1,Expansiva
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbReforma-Bold
+FamilyName:Fb Reforma
+StyleName:Bold
+MenuName:Fb Reforma
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FbReforma Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/FbReforma-Bold.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67068
+FileModTime:476800498
+NameArray:0,Mac,4,FbReforma Bold
+NameArray:0,Win,1,Fb Reforma
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbReforma-Light
+FamilyName:Fb Reforma
+StyleName:Light
+MenuName:Fb Reforma Light
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Reforma Light
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/FbReforma-Light.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66816
+FileModTime:476800498
+NameArray:0,Mac,4,Fb Reforma Light
+NameArray:0,Win,1,Fb Reforma Light
+NameArray:0,Win,16,Fb Reforma
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbReforma-Medium
+FamilyName:Fb Reforma
+StyleName:Medium
+MenuName:Fb Reforma Medium
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Reforma Medium
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/FbReforma-Medium.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67844
+FileModTime:476800498
+NameArray:0,Mac,4,Fb Reforma Medium
+NameArray:0,Win,1,Fb Reforma Medium
+NameArray:0,Win,16,Fb Reforma
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FbReforma-Regular
+FamilyName:Fb Reforma
+StyleName:Regular
+MenuName:Fb Reforma
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fb Reforma
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/FbReforma-Regular.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68032
+FileModTime:476800498
+NameArray:0,Mac,4,Fb Reforma
+NameArray:0,Win,1,Fb Reforma
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ROCKETWILDNESS
+FamilyName:ROCKETWILDNESS
+StyleName:Regular
+MenuName:ROCKETWILDNESS
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ROCKETWILDNESS
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/ROCKET WILDNESS.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149936
+FileModTime:589460618
+NameArray:0,Mac,4,ROCKETWILDNESS
+NameArray:0,Win,1,ROCKETWILDNESS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:olivier
+FamilyName:olivier
+StyleName:Regular
+MenuName:olivier
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:olivier Regular
+WritingScript:Roman
+OutlineFileName:/Users/ariel/Desktop/עיצוב אתר מותאם מידות 2 2 2 Folder/Document fonts/olivier_demo.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60332
+FileModTime:384169234
+NameArray:0,Mac,4,olivier Regular
+NameArray:0,Win,1,olivier
+%EndFont
+
